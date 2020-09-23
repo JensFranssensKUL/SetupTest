@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jay/GithubTest/SetupTest/helloMake/src/main.c
+stdio.h
+/home/jay/GithubTest/SetupTest/helloMake/src/stdio.h
+

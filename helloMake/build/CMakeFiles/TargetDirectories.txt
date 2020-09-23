@@ -1,0 +1,5 @@
+/home/jay/GithubTest/SetupTest/helloMake/build/CMakeFiles/edit_cache.dir
+/home/jay/GithubTest/SetupTest/helloMake/build/CMakeFiles/rebuild_cache.dir
+/home/jay/GithubTest/SetupTest/helloMake/build/src/CMakeFiles/rebuild_cache.dir
+/home/jay/GithubTest/SetupTest/helloMake/build/src/CMakeFiles/edit_cache.dir
+/home/jay/GithubTest/SetupTest/helloMake/build/src/CMakeFiles/helloCMake.dir

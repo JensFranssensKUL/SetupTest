@@ -1,0 +1,2 @@
+PROJECT(helloCMake)
+ADD_SUBDIRECTORY( src)

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/helloCMake.dir/main.o  -o helloCMake -rdynamic 
